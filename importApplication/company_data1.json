@@ -1,0 +1,24 @@
+{
+    "company": "Starbucks",
+    "address": "123 Star Lane",
+    "email": "starbucks@gmail.com",
+    "employees":
+    [
+        {   "first_name": "Joe",
+            "last_name": "Black",
+            "salary": 50000
+        },
+        {   "first_name": "Natalie",
+            "last_name": "Jones",
+            "salary": 60000
+        },
+        {   "first_name": "Jacob",
+            "last_name": "Sanders",
+            "salary": 70000
+        },
+        {   "first_name": "Becky",
+            "last_name": "Fisher",
+            "salary": 80000
+        }
+    ]
+}
