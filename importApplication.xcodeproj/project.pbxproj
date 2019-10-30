@@ -16,6 +16,7 @@
 		93938123236909390037412A /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 93938122236909390037412A /* .gitignore */; };
 		9393812523690A860037412A /* company_data1.json in Resources */ = {isa = PBXBuildFile; fileRef = 9393812423690A850037412A /* company_data1.json */; };
 		9393812723690A9C0037412A /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9393812623690A9C0037412A /* SwiftyJSON.swift */; };
+		9393812923690FD50037412A /* Employee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9393812823690FD50037412A /* Employee.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		93938122236909390037412A /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		9393812423690A850037412A /* company_data1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = company_data1.json; sourceTree = "<group>"; };
 		9393812623690A9C0037412A /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		9393812823690FD50037412A /* Employee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Employee.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				939381172369087B0037412A /* Assets.xcassets */,
 				939381192369087B0037412A /* LaunchScreen.storyboard */,
 				9393811C2369087B0037412A /* Info.plist */,
+				9393812823690FD50037412A /* Employee.swift */,
 			);
 			path = importApplication;
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 				93938113236908780037412A /* ViewController.swift in Sources */,
 				9393810F236908780037412A /* AppDelegate.swift in Sources */,
 				93938111236908780037412A /* SceneDelegate.swift in Sources */,
+				9393812923690FD50037412A /* Employee.swift in Sources */,
 				9393812723690A9C0037412A /* SwiftyJSON.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
